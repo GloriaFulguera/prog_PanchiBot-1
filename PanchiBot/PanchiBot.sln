@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanchiBot", "PanchiBot.csproj", "{66FAA4CD-9D83-4227-B990-58AD30F8F1A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FAA4CD-9D83-4227-B990-58AD30F8F1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FAA4CD-9D83-4227-B990-58AD30F8F1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FAA4CD-9D83-4227-B990-58AD30F8F1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FAA4CD-9D83-4227-B990-58AD30F8F1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB31DE7B-669C-49E8-8AFB-F6BB23218890}
+	EndGlobalSection
+EndGlobal

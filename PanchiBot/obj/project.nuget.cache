@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "81Nd75dMTG6okeJwnAfBfKp/jVoX7zLBi7Y3be2jVeFwKYy8MEbFQ4JQ8yg7H93/JArO4MR5Maoc6GBRf3LpJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glori\\Desktop\\Panchi Cliente y Servidor\\PanchiBot\\PanchiBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\glori\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\glori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\glori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,50 @@
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.exe
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.deps.json
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.runtimeconfig.json
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.runtimeconfig.dev.json
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.dll
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.pdb
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.csprojAssemblyReference.cache
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.Form1.resources
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.csproj.GenerateResource.cache
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.AssemblyInfoInputs.cache
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.AssemblyInfo.cs
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.csproj.CoreCompileInputs.cache
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.dll
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.pdb
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.genruntimeconfig.cache
+D:\usuarios\alumno\escritorio\Panchi\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.Properties.Resources.resources
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.exe
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.deps.json
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.runtimeconfig.json
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.runtimeconfig.dev.json
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.dll
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.pdb
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.csproj.AssemblyReference.cache
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.Form1.resources
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.Properties.Resources.resources
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.csproj.GenerateResource.cache
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.AssemblyInfoInputs.cache
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.AssemblyInfo.cs
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.dll
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.pdb
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.genruntimeconfig.cache
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.exe
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.deps.json
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.runtimeconfig.json
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.runtimeconfig.dev.json
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.dll
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\bin\Debug\netcoreapp3.1\PanchiBot.pdb
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.csproj.AssemblyReference.cache
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.Form1.resources
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.Properties.Resources.resources
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.csproj.GenerateResource.cache
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.AssemblyInfoInputs.cache
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.AssemblyInfo.cs
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.csproj.CoreCompileInputs.cache
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.dll
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.pdb
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot\obj\Debug\netcoreapp3.1\PanchiBot.genruntimeconfig.cache

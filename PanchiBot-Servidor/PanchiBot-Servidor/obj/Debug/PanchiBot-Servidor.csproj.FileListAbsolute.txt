@@ -1,0 +1,23 @@
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\bin\Debug\PanchiBot-Servidor.exe.config
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\bin\Debug\PanchiBot-Servidor.exe
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\bin\Debug\PanchiBot-Servidor.pdb
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.csproj.AssemblyReference.cache
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot_Servidor.Server.resources
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot_Servidor.Properties.Resources.resources
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot_Servidor.ventanaCliente.resources
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.csproj.GenerateResource.cache
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.exe
+C:\Users\Jonathan Fulguera\source\repos\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.pdb
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\bin\Debug\PanchiBot-Servidor.exe.config
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\bin\Debug\PanchiBot-Servidor.exe
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\bin\Debug\PanchiBot-Servidor.pdb
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.csproj.AssemblyReference.cache
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot_Servidor.Server.resources
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot_Servidor.Properties.Resources.resources
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot_Servidor.ventanaCliente.resources
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.csproj.GenerateResource.cache
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.csproj.CoreCompileInputs.cache
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.exe
+C:\Users\glori\Desktop\Panchi Cliente y Servidor\PanchiBot-Servidor\PanchiBot-Servidor\obj\Debug\PanchiBot-Servidor.pdb
